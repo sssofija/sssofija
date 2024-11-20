@@ -4,9 +4,6 @@
 My name is **Sofia Piepponen**, and I am a dedicated Software QA Engineer with experience in testing web applications.
 
 This portfolio showcases a selection of projects and achievements I have gained through my studies and pet-projects. Each item reflects my commitment to delivering high-quality results, ensuring software reliability, and enhancing user satisfaction.
-
-I approach testing with a focus on precision, efficiency, and continuous improvement, while staying up to date with the latest tools and industry trends. Here, I invite you to explore my work and gain insight into my professional approach to quality assurance.
-
 <table>
   <tr>
     <td style="vertical-align: top; width: 70%;">
