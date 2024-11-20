@@ -19,10 +19,11 @@ This portfolio showcases a selection of projects and achievements I have gained 
       </ul>
     </td>
     <td style="vertical-align: top; text-align: center; width: 30%;">
-      <img src="https://media1.tenor.com/m/eSK4SyEXPr4AAAAd/anime-himmel.gif" alt="Funny GIF" width="150">
+      <img src="https://github.com/piepponen/piepponen/blob/main/programmer-developer.gif" alt="Programmer GIF" width="150">
     </td>
   </tr>
 </table>
+
 
 
 <h2>Some Tools I Use</h2>
