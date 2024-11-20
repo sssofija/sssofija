@@ -9,7 +9,7 @@ I approach testing with a focus on precision, efficiency, and continuous improve
 
 <table>
   <tr>
-    <td style="vertical-align: top;">
+    <td style="vertical-align: top; width: 70%;">
       <h2>About me:</h2>
       <ul>
         <li>🌟 I’m currently working as ...</li>
@@ -21,11 +21,12 @@ I approach testing with a focus on precision, efficiency, and continuous improve
         <li>🧣 Random fact about me: I enjoy learning about other cultures through immersion. </li>
       </ul>
     </td>
-    <td style="vertical-align: top; text-align: center;">
-      <img src="https://media1.tenor.com/m/eSK4SyEXPr4AAAAd/anime-himmel.gif" alt="Funny GIF" style="max-width: 300px; border-radius: 8px;">
+    <td style="vertical-align: top; text-align: center; width: 30%;">
+      <img src="https://media1.tenor.com/m/eSK4SyEXPr4AAAAd/anime-himmel.gif" alt="Funny GIF" width="150">
     </td>
   </tr>
 </table>
+
 
 <h2>Some Tools I Use</h2>
 <p align="center">
