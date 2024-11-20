@@ -13,7 +13,7 @@ My name is **Sofia Piepponen**, and I am a dedicated **Software QA Engineer** wi
         <li>☕ Right now I am learning how to automate tests with Python </li>
         <li>🐈‍⬛ Most of my study cases are available on Github</li>
         <li>📖 Learning JS in my free time</li>
-        <li>📙 <a href="URL_TO_YOUR_RESUME">Check out my resume</a></li>
+        <li>📙 <a href="URL_TO_YOUR_RESUME" style="color: #c5f015;">Check out my resume</a>
         <li>🧣 Random fact about me: I enjoy learning about other cultures through immersion. </li>
       </ul>
     </td>
