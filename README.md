@@ -53,7 +53,7 @@
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-## Achievments
+## Achievements
 <a href="https://badgr.com/public/assertions/MPewFIrCRWOqYgKSuRmePg?identity__email=sofiia.piepponen@gmail.com">
   <img src="https://github.com/piepponen/piepponen/blob/main/icons/postmanbadge.png" title ="Postman Academy" alt="Postman Badge" width="120" height="120">
 </a>
