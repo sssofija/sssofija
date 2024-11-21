@@ -55,8 +55,9 @@
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 ## Achievments
 <a href="https://badgr.com/public/assertions/MPewFIrCRWOqYgKSuRmePg?identity__email=sofiia.piepponen@gmail.com">
-  <img src="https://github.com/piepponen/piepponen/blob/main/icons/postmanbadge.png" alt="Postman Badge" width="100" height="100">
+  <img src="https://github.com/piepponen/piepponen/blob/main/icons/postmanbadge.png" title ="Postman Academy" alt="Postman Badge" width="120" height="120">
 </a>
+
 
 Test Artifacts
 
