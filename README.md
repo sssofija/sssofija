@@ -53,13 +53,20 @@
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-## Achievements
-<a href="https://badgr.com/public/assertions/MPewFIrCRWOqYgKSuRmePg?identity__email=sofiia.piepponen@gmail.com">
-  <img src="https://github.com/piepponen/piepponen/blob/main/icons/postmanbadge.png" title ="Postman Academy" alt="Postman Badge" width="120" height="120">
-</a>
-<a href="https://github.com/piepponen/piepponen/blob/main/Certificates/CERTIFICATE_LANDING_PAGE~WTZRBPT53G2F.jpeg">
-  <img src="https://github.com/piepponen/piepponen/blob/main/icons/atlassian.png" title ="Atlassian University" alt="Atlassian University" width="180" height="180">
-</a>
+## 🏆  Achievements and Certifications📜
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <a href="https://github.com/piepponen/piepponen/blob/main/Certificates/CERTIFICATE_LANDING_PAGE~WTZRBPT53G2F.jpeg">
+    <img src="https://github.com/piepponen/piepponen/blob/main/icons/atlassian.png" title="Atlassian University" alt="Atlassian University" width="120" height="120">
+  </a>
+  <a href="https://badgr.com/public/assertions/MPewFIrCRWOqYgKSuRmePg?identity__email=sofiia.piepponen@gmail.com">
+    <img src="https://github.com/piepponen/piepponen/blob/main/icons/postmanbadge.png" title="Postman Academy" alt="Postman Badge" width="100" height="100">
+  </a>
+    <img src="https://github.com/piepponen/piepponen/blob/main/icons/processing.gif" alt="Processing GIF" width="500">
+</div>
+
+
+
+
 
 Test Artifacts
 
