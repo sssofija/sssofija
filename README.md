@@ -1,4 +1,5 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF0000&lines=Hello+there!)   <img src="https://github.com/piepponen/piepponen/blob/main/icons/bug.gif" alt="Bug" width="100" />
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF0000&lines=Hello+there!)                <img src="https://github.com/piepponen/piepponen/blob/main/icons/bug.gif" alt="Bug" width="100" />
 
 **My name is **Sofia Piepponen**, and I am a dedicated **Software QA Engineer** with experience in testing web applications.**
 
