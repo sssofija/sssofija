@@ -1,6 +1,5 @@
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF0000&lines=Hello+there!)                <img src="https://github.com/piepponen/piepponen/blob/main/icons/bug.gif" alt="Bug" width="100" />
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF0000&lines=Hello+there!)                
 **My name is **Sofia Piepponen**, and I am a dedicated **Software QA Engineer** with experience in testing web applications.**
 
 :dizzy: <span style="color: #f03c15;">This portfolio highlights projects and achievements from my studies and pet-projects.</span> :dizzy:
@@ -91,6 +90,6 @@ Bash
 Git
 Take a look at my repositories and let's get in touch!
 linkedin telegram gmail
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=See+you!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=See+you!)](https://git.io/typing-svg)   <img src="https://github.com/piepponen/piepponen/blob/main/icons/bug.gif" alt="Bug" width="100" />
 
 
