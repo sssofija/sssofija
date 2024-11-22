@@ -64,7 +64,7 @@
  <a href="https://github.com/piepponen/piepponen/blob/main/Certificates/AgileProjectManagement_GoogleWKMJNZ5MKQS8.pdf">
     <img src="https://github.com/piepponen/piepponen/blob/main/icons/wKeD4dtazdA.jpg" title="Google Agile" alt="Google Agile" width="120" height="120">
   </a>
-    <img src="https://github.com/piepponen/piepponen/blob/main/icons/processing.gif" alt="Processing GIF" width="500">
+    <img src="https://github.com/piepponen/piepponen/blob/main/icons/processing.gif" alt="Processing GIF" width="300">
 </div>
 
 
