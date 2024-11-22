@@ -70,7 +70,7 @@
   <a href="https://github.com/piepponen/piepponen/blob/main/Certificates/stepik-certificate-201213-3ec9f13.pdf">
     <img src="https://github.com/piepponen/piepponen/blob/main/icons/sql.png" title="SQL Workshop" alt="SQL Workshop" width="180" height="110">
   </a>
-    <img src="https://github.com/piepponen/piepponen/blob/main/icons/processing.gif" alt="Processing GIF" width="200">
+    <img src="https://github.com/piepponen/piepponen/blob/main/icons/processing.gif" alt="Processing GIF" width="150">
 </div>
 
 
