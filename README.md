@@ -59,7 +59,10 @@
     <img src="https://github.com/piepponen/piepponen/blob/main/icons/atlassian.png" title="Atlassian University" alt="Atlassian University" width="150" height="120">
   </a>
   <a href="https://badgr.com/public/assertions/MPewFIrCRWOqYgKSuRmePg?identity__email=sofiia.piepponen@gmail.com">
-    <img src="https://github.com/piepponen/piepponen/blob/main/icons/postmanbadge.png" title="Postman Academy" alt="Postman Badge" width="100" height="100">
+    <img src="https://github.com/piepponen/piepponen/blob/main/icons/postmanbadge.png" title="Postman Academy" alt="Postman Badge" width="120" height="120">
+  </a>
+ <a href="https://github.com/piepponen/piepponen/blob/main/Certificates/AgileProjectManagement_GoogleWKMJNZ5MKQS8.pdf">
+    <img src="https://github.com/piepponen/piepponen/blob/main/icons/wKeD4dtazdA.jpg" title="Google Agile" alt="Google Agile" width="120" height="120">
   </a>
     <img src="https://github.com/piepponen/piepponen/blob/main/icons/processing.gif" alt="Processing GIF" width="500">
 </div>
