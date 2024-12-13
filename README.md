@@ -9,7 +9,7 @@
       <h2>About me:</h2>
       <ul>
         <li>🌟 I’m currently working as ...</li>
-        <li>😌  <a href="https://github.com/piepponen/piepponen/blob/main/Certificates/EN_Certificate%20of%20completion_Become%20a%20Manual%20Tester.pdf" style="color: #808080;">I completed a manual software testing course.</li>
+        <li>😌  <a href="" style="color: #808080;">I completed a manual software testing course.</li>
         <li>☕ I'm currently learning how to automate tests with Python.</li>
         <li>🐈‍⬛ Most of my study cases are available on Github.</li>
         <li>📖 I'm getting ready for the ISTQB exam.</li>
