@@ -10,7 +10,8 @@
       <ul>
         <li>🌟 I’m currently working as ...</li>
         <li>😌 I completed a manual software testing course.</li>
-        <li>☕ I'm currently learning how to automate tests with Python.</li>
+        <li>☕ I'm currently learning how to automate tests with Python.
+          Also, I have a growing interest in Data Science.</li>
         <li>🐈‍⬛ Most of my study cases are available on Github.</li>
         <li>📖 I'm getting ready for the ISTQB exam.</li>
         <li>📙 <a href="URL_TO_YOUR_RESUME" style="color: #c5f015;">Check out my resume</a>
