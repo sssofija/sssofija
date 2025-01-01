@@ -78,19 +78,7 @@
 
 
 
-Test Artifacts
 
-Java Test Automation
-Webshop testing
-REST and SOAP API testing via Postman
-MySQL
-MongoDB
-Android app testing
-Replacing data with CharlesProxy
-Bash
-Git
-Take a look at my repositories and let's get in touch!
-linkedin telegram gmail
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=See+you!)](https://git.io/typing-svg)   <img src="https://github.com/piepponen/piepponen/blob/main/icons/bug.gif" alt="Bug" width="100" />
 
 
