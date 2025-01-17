@@ -8,10 +8,10 @@
     <td style="vertical-align: top; width: 70%;">
       <h2>About me:</h2>
       <ul>
-        <li>🌟 I’m currently working on different projects as AQA </li>
-        <li>😌 I’ve completed numerous courses in testing, including tools like Postman, JMeter, test automation (python), etc.</li>
+        <li>🌟 I’m currently working on the two projects as an AQA </li>
+        <li>😌 I’ve completed numerous courses in testing, including using tools like Postman, JMeter, test automation (Python), and more.</li>
         <li>☕ I have a growing interest in Data Science.</li>
-        <li>🐈‍⬛ Most of my study cases are available on Github.</li>
+        <li>🐈‍⬛ Most of my study cases are/will be available on Github.</li>
         <li>📖 I'm getting ready for the ISTQB exam.</li>
         <li>📙 <a href="URL_TO_YOUR_RESUME" style="color: #c5f015;">Check out my resume</a>
         <li>🧣 Random fact about me: I enjoy learning about other cultures through immersion. </li>
