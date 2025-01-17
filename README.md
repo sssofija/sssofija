@@ -9,7 +9,7 @@
       <h2>About me:</h2>
       <ul>
         <li>🌟 I’m currently working on different projects as AQA </li>
-        <li>😌 I completed a manual software testing course.</li>
+        <li>😌 I’ve completed numerous courses in testing, including tools like Postman, JMeter, test automation (python), etc.</li>
         <li>☕ I have a growing interest in Data Science.</li>
         <li>🐈‍⬛ Most of my study cases are available on Github.</li>
         <li>📖 I'm getting ready for the ISTQB exam.</li>
