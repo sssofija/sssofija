@@ -44,7 +44,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkings" alt="Jenkings" width="40" height="40"/>
 <img src="https://github.com/piepponen/piepponen/blob/main/icons/jmeter.jpg" title="JMeter" alt="JMeter" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" title = "Trello" alt = "Trello" width = "40" height = "40"/>
-<img src = "https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title = "Slack" alt="Slack' width = "40" height = "40"/>  
+<img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="40" height="40"/>
 </p>
 
 
