@@ -44,7 +44,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="40" height="40"/>
 </p>
 
-## Manual Testing
+## Manual Testing 
 
 - Mind Map for the website  
   [link](#)
@@ -57,19 +57,19 @@
 
 - Working with Postman  
   [link](#)
-
-- Working with Databases  
-  [link](#)
-
+  
 ## Test Automation
 
-[JS Cypress](https://github.com/sssofija/JSCypress), [SQL](https://github.com/sssofija/sssofija/tree/main/demo_code/SQL)
+[JS Cypress](https://github.com/sssofija/JSCypress)
 
 - Working with Selenium and generating reports in Allure  
   [link](#)
 
 - Working with REST Assured  
   [link](#)
+
+## Other
+[SQL- Working with Databases](https://github.com/sssofija/sssofija/tree/main/demo_code/SQL)
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
