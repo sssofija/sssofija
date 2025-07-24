@@ -63,8 +63,7 @@
 
 ## Test Automation
 
-- Using JUnit 5  
-  [link](#)
+[JS Cypress](https://github.com/sssofija/JSCypress)
 
 - Working with Selenium and generating reports in Allure  
   [link](#)
