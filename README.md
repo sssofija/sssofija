@@ -46,10 +46,9 @@
 
 ## Manual Testing 
 
-- Mind Map for the website  
-  [link](#)
+- [Mobile Security Testing Checklist](https://github.com/sssofija/sssofija/blob/main/demo_code/Manual_Testing/Mobile_Security_Testing_Checklist.md)
 
-- Decision Table technique for the website  
+-ecision Table technique for the website  
   [link](#)
 
 - Exploratory testing of the website with bug report creation  
