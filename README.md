@@ -44,19 +44,11 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="40" height="40"/>
 </p>
 
-## Manual Testing 
+## Manual Testing Examples
+- [Mobile Security Testing Checklist](https://github.com/sssofija/sssofija/blob/main/demo_code/Manual_Testing/Mobile_Security_Testing_Checklist.md),
+- [Postman script for Testing Backend Stub and Emulator](https://github.com/sssofija/sssofija/blob/main/demo_code/Postman/scripts_stub.md),
+- [Checklists for Different Stages of Performance Testing](https://github.com/sssofija/sssofija/blob/main/demo_code/Manual_Testing/PerformanceTestingChecklist.md)
 
-- [Mobile Security Testing Checklist](https://github.com/sssofija/sssofija/blob/main/demo_code/Manual_Testing/Mobile_Security_Testing_Checklist.md), [Postman script for Testing Backend Stub and Emulator](https://github.com/sssofija/sssofija/blob/main/demo_code/Postman/scripts_stub.md), [Checklists for Different Stages of Performance Testing](https://github.com/sssofija/sssofija/blob/main/demo_code/Manual_Testing/PerformanceTestingChecklist.md)
-
--ecision Table technique for the website  
-  [link](#)
-
-- Exploratory testing of the website with bug report creation  
-  [link](#)
-
-- Working with Postman  
-  [link](#)
-  
 ## Test Automation
 
 [JS Cypress](https://github.com/sssofija/JSCypress)
