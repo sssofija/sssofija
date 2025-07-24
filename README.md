@@ -46,8 +46,9 @@
 
 ## Manual Testing Examples
 - [Mobile Security Testing Checklist](https://github.com/sssofija/sssofija/blob/main/demo_code/Manual_Testing/Mobile_Security_Testing_Checklist.md),
-- [Postman script for Testing Backend Stub and Emulator](https://github.com/sssofija/sssofija/blob/main/demo_code/Postman/scripts_stub.md),
-- [Checklists for Different Stages of Performance Testing](https://github.com/sssofija/sssofija/blob/main/demo_code/Manual_Testing/PerformanceTestingChecklist.md)
+- [Checklists for Different Stages of Performance Testing](https://github.com/sssofija/sssofija/blob/main/demo_code/Manual_Testing/PerformanceTestingChecklist.md),
+- [Postman script for Testing Backend Stub and Emulator](https://github.com/sssofija/sssofija/blob/main/demo_code/Postman/scripts_stub.md)
+
 
 ## Test Automation
 
@@ -56,11 +57,11 @@
 - Working with Selenium and generating reports in Allure  
   [link](#)
 
-- Working with REST Assured  
-  [link](#)
-
 ## Other
 [SQL- Working with Databases](https://github.com/sssofija/sssofija/tree/main/demo_code/SQL)
+
+
+## 📜 You can view my professional certificates in the [Certificates section of my GitHub repository](https://github.com/sssofija/sssofija/tree/main/Certificates).
 
 ## 🎓 Online Courses (in Russian)
 
