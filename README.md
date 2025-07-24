@@ -63,7 +63,7 @@
 
 ## Test Automation
 
-[JS Cypress](https://github.com/sssofija/JSCypress)
+[JS Cypress](https://github.com/sssofija/JSCypress), [SQL](https://github.com/sssofija/sssofija/tree/main/demo_code/SQL)
 
 - Working with Selenium and generating reports in Allure  
   [link](#)
