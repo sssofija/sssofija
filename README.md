@@ -1,7 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF0000&lines=Hello+there!)                
 **My name is **Sofia Piepponen**, and I am a dedicated **Software QA Engineer** with experience in testing web applications.**
 
-:dizzy: <span style="color: #f03c15;">This portfolio highlights projects and achievements from my studies and pet-projects.</span> :dizzy:
+:dizzy: <span style="color: #f03c15;">This portfolio highlights projects and achievements from my studies.</span> :dizzy:
 <table>
   <tr>
     <td style="vertical-align: top; width: 70%;">
@@ -58,12 +58,12 @@
   [link](#)
 
 ## Other
-[SQL- Working with Databases](https://github.com/sssofija/sssofija/tree/main/demo_code/SQL)
+[SQL- Working with Databases](https://github.com/sssofija/sssofija/tree/main/demo_code/SQL) <br><br>
 
 
-## 📜 You can view my professional certificates in the [Certificates section of my GitHub repository](https://github.com/sssofija/sssofija/tree/main/Certificates).
+## 📜 You can view my professional certificates in the [Certificates section of my GitHub repository](https://github.com/sssofija/sssofija/tree/main/Certificates).<br><br>
 
-## 🎓 Online Courses (in Russian)
+## 🎓 Online Courses (in Russian)<br><br>
 
 I have authored several educational courses on software testing, published on [Stepik](https://stepik.org/), a popular Russian online learning platform:
 
