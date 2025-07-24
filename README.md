@@ -70,6 +70,28 @@
 ## Other
 [SQL- Working with Databases](https://github.com/sssofija/sssofija/tree/main/demo_code/SQL)
 
+## 🎓 Online Courses (in Russian)
+
+I have authored several educational courses on software testing, published on [Stepik](https://stepik.org/), a popular Russian online learning platform:
+
+- **Automated Testing with JavaScript (Cypress)** – End-to-end testing with Cypress, best practices, and hands-on examples  
+- **Mobile App Testing Roadmap** – Comprehensive guide for manual and automated testing of mobile apps  
+- **Allure Reports: Visualization and Integration** – How to generate and integrate rich test reports with Allure  
+- **Load Testing from A to Z** – Fundamentals of performance testing, tools overview, practical test scenarios
+
+## Technical Articles (in Russian)
+
+I start write articles on software testing and automation for the popular Russian tech community on Habr:
+
+- Practical guides and tutorials on automated and mobile testing
+- Cypress, Allure, test reporting, QA career development
+- Real-world experience, tooling overviews, and best practices
+
+> All posts are in Russian 🇷🇺 and aimed at helping both junior and experienced QA engineers.
+
+📚 [Read my articles on Habr](https://habr.com/ru/users/SofiAQA/articles/)
+
+
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
