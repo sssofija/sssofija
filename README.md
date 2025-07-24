@@ -7,13 +7,13 @@
     <td style="vertical-align: top; width: 70%;">
       <h2>About me:</h2>
       <ul>
-        <li>🌟 I’m currently working on the two projects as an AQA </li>
+        <li>🌟 I’m currently working on two projects as an AQA</li>
         <li>😌 I’ve completed numerous courses in testing, including using tools like Postman, JMeter, test automation (Python), and more.</li>
         <li>☕ I have a growing interest in Data Science.</li>
         <li>🐈‍⬛ Most of my study cases are/will be available on Github.</li>
-        <li>📖 I'm getting ready for the ISTQB exam.</li>
+        <li>📖 I'm preparing for the ISTQB exam.</li>
         <li>📙 <a href="URL_TO_YOUR_RESUME" style="color: #c5f015;">Check out my resume</a></li>
-        <li>🧣 Random fact about me: I enjoy learning about other cultures through immersion. </li>
+        <li>🧣 Random fact about me: I enjoy learning about other cultures through immersion.</li>
       </ul>
     </td>
     <td style="vertical-align: top; text-align: center; width: 30%;">
@@ -31,52 +31,52 @@
 <img src="https://github.com/piepponen/piepponen/blob/main/icons/swagger.png" title="Swagger" alt="Swagger" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" title="PyCharm" alt="pycharm" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>
-<img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title = "Python" alt = "Python" width ="40" height = "40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
 <img src="https://github.com/piepponen/piepponen/blob/main/icons/javascript_logo.jpeg" title="JavaScript" alt="JavaScript" width="50" height="40"/>
 <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" title="HTML5" alt="HTML5" width="40" height="40"/>
-<img src="https://github.com/piepponen/piepponen/blob/main/icons/postgre.png" title="PostGre" alt="PostGre" width="60" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>
+<img src="https://github.com/piepponen/piepponen/blob/main/icons/postgre.png" title="PostgreSQL" alt="PostgreSQL" width="60" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg" title="DBeaver" alt="DBeaver" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkings" alt="Jenkings" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>
 <img src="https://github.com/piepponen/piepponen/blob/main/icons/jmeter.jpg" title="JMeter" alt="JMeter" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" title = "Trello" alt = "Trello" width = "40" height = "40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" title="Trello" alt="Trello" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="40" height="40"/>
 </p>
 
-## Manual Testing / Ручное тестирование
+## Manual Testing
 
-- Mind-карта для сайта  
-  [ссылка](#)
+- Mind Map for the website  
+  [link](#)
 
-- Техника “Таблица принятия решений” для сайта  
-  [ссылка](#)
+- Decision Table technique for the website  
+  [link](#)
 
-- Исследовательское тестирование сайта с составлением баг-репортов  
-  [ссылка](#)
+- Exploratory testing of the website with bug report creation  
+  [link](#)
 
-- Работа в Postman  
-  [ссылка](#)
+- Working with Postman  
+  [link](#)
 
-- Работа с БД  
-  [ссылка](#)
+- Working with Databases  
+  [link](#)
 
-## Automation Testing / Автоматизация тестирования
+## Test Automation
 
-- Использование JUnit 5  
-  [ссылка](#)
+- Using JUnit 5  
+  [link](#)
 
-- Работа с Selenium и создание отчета в Allure  
-  [ссылка](#)
+- Working with Selenium and generating reports in Allure  
+  [link](#)
 
-- Работа с REST Assured  
-  [ссылка](#)
+- Working with REST Assured  
+  [link](#)
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
-## 🏆  Achievements and Certifications📜
+## 🏆 Achievements and Certifications📜
 <div style="display: flex; align-items: center; justify-content: space-between;">
     <img src="https://github.com/piepponen/piepponen/blob/main/icons/processing.gif" alt="Processing GIF" width="200">
 </div>
