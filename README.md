@@ -10,7 +10,7 @@
         <li>🌟 I’m currently working on two projects as an AQA</li>
         <li>😌 I’ve completed numerous courses in testing, including using tools like Postman, JMeter, test automation, and more.</li>
         <li>☕ I have a growing interest in Data Science.</li>
-        <li>🐈‍⬛ I am currently studying for a Bachelor of Engineering at KAMK, which is my third higher education degree.</li>
+        <li>🐈‍⬛ I am currently studying for a Bachelor of Engineering, which is my third higher education degree.</li>
         <li>📖 I'm preparing for the ISTQB exam.</li>
         <li>📙 <a href="URL_TO_YOUR_RESUME" style="color: #c5f015;">Check out my resume</a></li>
         <li>🧣 Random fact about me: I have an MBA and a background in finance.</li>
