@@ -46,7 +46,7 @@
 
 ## Manual Testing 
 
-- [Mobile Security Testing Checklist](https://github.com/sssofija/sssofija/blob/main/demo_code/Manual_Testing/Mobile_Security_Testing_Checklist.md)
+- [Mobile Security Testing Checklist](https://github.com/sssofija/sssofija/blob/main/demo_code/Manual_Testing/Mobile_Security_Testing_Checklist.md), [Postman script for Testing Backend Stub and Emulator](https://github.com/sssofija/sssofija/blob/main/demo_code/Postman/scripts_stub.md)
 
 -ecision Table technique for the website  
   [link](#)
