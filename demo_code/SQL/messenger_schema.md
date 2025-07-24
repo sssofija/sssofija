@@ -1,4 +1,4 @@
-# 📦 Messenger SQL Schema
+#  Messenger SQL Schema
 
 A relational SQL schema that models the backend for a modern messaging application — similar in concept to Telegram or Messenger. Built using MySQL syntax with support for:
 
@@ -30,7 +30,7 @@ This schema contains DDL (Data Definition Language) commands for creating and mo
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **MySQL / MariaDB** (compatible)
 - Relational data modeling
@@ -38,7 +38,7 @@ This schema contains DDL (Data Definition Language) commands for creating and mo
 
 ---
 
-## 🧪 Sample Use Cases
+## Sample Use Cases
 
 - Register users, create channels, send and reply to messages
 - Subscribe to channels or join groups
@@ -47,7 +47,7 @@ This schema contains DDL (Data Definition Language) commands for creating and mo
 
 ---
 
-## 🔧 How to Use
+## How to Use
 
 1. Run the script in a MySQL-compatible environment (e.g., MySQL Workbench, DBeaver, or CLI).
 2. All `DROP TABLE IF EXISTS` statements are included for safe resets.
