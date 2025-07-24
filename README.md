@@ -1,4 +1,3 @@
-
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF0000&lines=Hello+there!)                
 **My name is **Sofia Piepponen**, and I am a dedicated **Software QA Engineer** with experience in testing web applications.**
 
@@ -13,7 +12,7 @@
         <li>☕ I have a growing interest in Data Science.</li>
         <li>🐈‍⬛ Most of my study cases are/will be available on Github.</li>
         <li>📖 I'm getting ready for the ISTQB exam.</li>
-        <li>📙 <a href="URL_TO_YOUR_RESUME" style="color: #c5f015;">Check out my resume</a>
+        <li>📙 <a href="URL_TO_YOUR_RESUME" style="color: #c5f015;">Check out my resume</a></li>
         <li>🧣 Random fact about me: I enjoy learning about other cultures through immersion. </li>
       </ul>
     </td>
@@ -22,8 +21,6 @@
     </td>
   </tr>
 </table>
-
-
 
 <h2>Some Tools I Use</h2>
 <p align="center">
@@ -47,21 +44,41 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="40" height="40"/>
 </p>
 
+## Manual Testing / Ручное тестирование
 
+- Mind-карта для сайта  
+  [ссылка](#)
+
+- Техника “Таблица принятия решений” для сайта  
+  [ссылка](#)
+
+- Исследовательское тестирование сайта с составлением баг-репортов  
+  [ссылка](#)
+
+- Работа в Postman  
+  [ссылка](#)
+
+- Работа с БД  
+  [ссылка](#)
+
+## Automation Testing / Автоматизация тестирования
+
+- Использование JUnit 5  
+  [ссылка](#)
+
+- Работа с Selenium и создание отчета в Allure  
+  [ссылка](#)
+
+- Работа с REST Assured  
+  [ссылка](#)
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+
 ## 🏆  Achievements and Certifications📜
 <div style="display: flex; align-items: center; justify-content: space-between;">
     <img src="https://github.com/piepponen/piepponen/blob/main/icons/processing.gif" alt="Processing GIF" width="200">
 </div>
 
-
-
-
-
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=See+you!)](https://git.io/typing-svg)   <img src="https://github.com/piepponen/piepponen/blob/main/icons/bug.gif" alt="Bug" width="100" />
-
-
