@@ -11,9 +11,9 @@
         <li>😌 I’ve completed numerous courses in testing, including using tools like Postman, JMeter, test automation, and more.</li>
         <li>☕ I have a growing interest in Data Science.</li>
         <li>🐈‍⬛ I am currently studying for a Bachelor of Engineering, which is my third higher education degree.</li>
-        <li>📖 I'm preparing for the ISTQB exam.</li>
+        <li>📖 I have an MBA and a background in finance.</li>
         <li>📙 <a href="URL_TO_YOUR_RESUME" style="color: #c5f015;">Check out my resume</a></li>
-        <li>🧣 Random fact about me: I have an MBA and a background in finance.</li>
+        <li>🧣 Random fact about me: I was awarded a voucher from Microsoft, allowing me to take any official certification exam for free..</li>
       </ul>
     </td>
     <td style="vertical-align: top; text-align: center; width: 30%;">
