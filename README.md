@@ -89,7 +89,6 @@ I start write articles on software testing and automation for the popular Russia
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
-## 🏆 Achievements and Certifications📜
 <div style="display: flex; align-items: center; justify-content: space-between;">
     <img src="https://github.com/piepponen/piepponen/blob/main/icons/processing.gif" alt="Processing GIF" width="200">
 </div>
