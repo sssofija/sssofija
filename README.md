@@ -53,7 +53,7 @@
 [JS Cypress UI/API](https://github.com/sssofija/JSCypress), [Python API tests](https://github.com/sssofija/PythonAPITestingDemo/tree/main)
 
 ## Other
-[SQL- Working with Databases](https://github.com/sssofija/sssofija/tree/main/demo_code/SQL), [Data Exploration with Kaggle Dataset](https://github.com/sssofija/sssofija/blob/main/demo_code/DataAnalysis/dataset.ipynb) <br><br>
+[SQL- Working with Databases](https://github.com/sssofija/sssofija/tree/main/demo_code/SQL), [Data Exploration with Kaggle Dataset](https://github.com/sssofija/sssofija/blob/main/demo_code/DataAnalysis/dataset.ipynb), [Power BI Dashboard](https://github.com/sssofija/sssofija/blob/main/demo_code/DataAnalysis/Dashboard_onlineSales.pbix) <br><br>
 
 
 ## 📜 You can view my professional certificates in the [Certificates section of my GitHub repository](https://github.com/sssofija/sssofija/tree/main/Certificates).<br><br>
