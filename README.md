@@ -49,13 +49,8 @@
 - [Checklists for Different Stages of Performance Testing](https://github.com/sssofija/sssofija/blob/main/demo_code/Manual_Testing/PerformanceTestingChecklist.md),
 - [Postman script for Testing Backend Stub and Emulator](https://github.com/sssofija/sssofija/blob/main/demo_code/Postman/scripts_stub.md)
 
-
 ## Test Automation
-
 [JS Cypress UI/API](https://github.com/sssofija/JSCypress), [Python API tests](https://github.com/sssofija/PythonAPITestingDemo/tree/main)
-
-- Working with Selenium and generating reports in Allure  
-  [link](#)
 
 ## Other
 [SQL- Working with Databases](https://github.com/sssofija/sssofija/tree/main/demo_code/SQL) <br><br>
