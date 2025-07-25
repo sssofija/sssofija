@@ -52,7 +52,7 @@
 
 ## Test Automation
 
-[JS Cypress UI/API](https://github.com/sssofija/JSCypress)
+[JS Cypress UI/API](https://github.com/sssofija/JSCypress), [Python API tests](https://github.com/sssofija/PythonAPITestingDemo/tree/main)
 
 - Working with Selenium and generating reports in Allure  
   [link](#)
