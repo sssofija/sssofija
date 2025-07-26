@@ -49,8 +49,17 @@
 - [Checklists for Different Stages of Performance Testing](https://github.com/sssofija/sssofija/blob/main/demo_code/Manual_Testing/PerformanceTestingChecklist.md),
 - [Postman script for Testing Backend Stub and Emulator](https://github.com/sssofija/sssofija/blob/main/demo_code/Postman/scripts_stub.md)
 
-## Test Automation
-[JS Cypress UI/API](https://github.com/sssofija/JSCypress), [Python API tests](https://github.com/sssofija/PythonAPITestingDemo/tree/main), [Python Selenium (PageObjectModel)+Docker+Allure](https://github.com/sssofija/PythonSeleniumDocker)
+##  Test Automation Demo
+
+- [JS Cypress – UI & API Tests](https://github.com/sssofija/JSCypress)  
+  Automated UI and API testing using Cypress (JavaScript)
+
+- [Python – API Testing](https://github.com/sssofija/PythonAPITestingDemo/tree/main)  
+  REST API tests using `requests` and `pytest`
+
+- [Python Selenium – Page Object Model + Docker + Allure](https://github.com/sssofija/PythonSeleniumDocker)  
+  UI test automation with Selenium WebDriver, Allure reports, and Docker integration
+
 
 ## Other
 [SQL- Working with Databases](https://github.com/sssofija/sssofija/tree/main/demo_code/SQL), [Data Exploration with Kaggle Dataset](https://github.com/sssofija/sssofija/blob/main/demo_code/DataAnalysis/dataset.ipynb), [Power BI Dashboard](https://github.com/sssofija/sssofija/blob/main/demo_code/DataAnalysis/Dashboard_onlineSales.pbix) <br><br>
