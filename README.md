@@ -52,16 +52,16 @@
 ##  Test Automation Demo
 
 - [JS Cypress – UI & API Tests](https://github.com/sssofija/JSCypress)  
-  Automated UI and API testing using Cypress (JavaScript)
+  Automated UI and API testing using **Cypress** (JavaScript)
 
 - [Python – API Testing](https://github.com/sssofija/PythonAPITestingDemo/tree/main)  
   REST API tests
 
 - [Python Selenium – Page Object Model + Docker + Allure](https://github.com/sssofija/PythonSeleniumDocker)  
-  UI test automation with Selenium WebDriver, Allure reports, and Docker integration
+  UI test automation with **Selenium** WebDriver, **Allure** reports, and **Docker** integration
   
-- [Python Playwright + GitLab CI/CD](https://github.com/sssofija/PythonPlaywright)
-  UI test automation with Playwright and GitLab CI/CD integration
+- [Python Playwright + GitLab CI/CD](https://github.com/sssofija/PythonPlaywright)      
+  UI test automation with **Playwright** and **GitLab CI/CD** integration
 
 ## Other
 [SQL- Working with Databases](https://github.com/sssofija/sssofija/tree/main/demo_code/SQL), [Data Exploration with Kaggle Dataset](https://github.com/sssofija/sssofija/blob/main/demo_code/DataAnalysis/dataset.ipynb), [Power BI Dashboard](https://github.com/sssofija/sssofija/blob/main/demo_code/DataAnalysis/Dashboard_onlineSales.pbix) <br><br>
