@@ -55,7 +55,7 @@
   Automated UI and API testing using **Cypress** (JavaScript)
 
 - [Python – API Testing](https://github.com/sssofija/PythonAPITestingDemo/tree/main)  
-  REST API tests
+  **REST API** tests
 
 - [Python Selenium – Page Object Model + Docker + Allure](https://github.com/sssofija/PythonSeleniumDocker)  
   UI test automation with **Selenium** WebDriver, **Allure** reports, and **Docker** integration
