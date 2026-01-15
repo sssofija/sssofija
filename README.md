@@ -1,5 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF0000&lines=Hello+there!)                
-**My name is **Sofia Piepponen**, and I am a dedicated **Software QA Engineer** with experience in testing web applications.**
+**My name is **Sofia**, and I am a dedicated **Software QA Engineer** with experience in testing web applications.**
 
 :dizzy: <span style="color: #f03c15;">This portfolio presents selected academic achievements and practical insights acquired through professional work. </span> :dizzy:
 <table>
